@@ -3,3 +3,5 @@ User-agent: *
 Disallow: /assets/
 Disallow: /assets/image
 Disallow: assets/image/favicon/
+
+sitemap: www.maribelorduna.com/sitemap.xml
