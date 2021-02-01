@@ -4,4 +4,4 @@ Disallow: /assets/
 Disallow: /assets/image
 Disallow: assets/image/favicon/
 
-sitemap: www.maribelorduna.com/sitemap.xml
+sitemap: http://www.maribelorduna.com/sitemap.xml
