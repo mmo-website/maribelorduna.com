@@ -1,0 +1,5 @@
+# www.maribelorduna.com/robots.txt
+User-agent: googlebot
+Disallow: /assets/
+Disallow: /assets/image
+Disallow: assets/image/favicon/
