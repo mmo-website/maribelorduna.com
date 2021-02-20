@@ -1,7 +1,5 @@
 # www.maribelorduna.com/robots.txt
 User-agent: *
 Disallow: /assets/
-Disallow: /assets/image
-Disallow: assets/image/favicon/
 
 sitemap: http://www.maribelorduna.com/sitemap.xml
